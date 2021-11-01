@@ -46,3 +46,5 @@ query = db.select(movies)
 result_proxy = connection.execute(query)
 result_set = result_proxy.fetchall()
 print(result_set, '\n')
+
+connection.close()
