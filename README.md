@@ -8,3 +8,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 4. Creating a project tracker mysql database using `python-mysql-connector`
 5. Creating a project tracker mysql database using `sqlalchemy-orm` 
 6. Loading csv file (salespeople) into a database using `python-mysql-connector`
+7. Loading csv file (landon) into a database using `mysql-connector`+`sqlalchemy`+`pandas`
