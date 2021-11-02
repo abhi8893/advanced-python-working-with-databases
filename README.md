@@ -7,3 +7,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 3. `sqlite` and `sqlalchemy` challenge to create users database
 4. Creating a project tracker mysql database using `python-mysql-connector`
 5. Creating a project tracker mysql database using `sqlalchemy-orm` 
+6. Loading csv file (salespeople) into a database using `python-mysql-connector`
