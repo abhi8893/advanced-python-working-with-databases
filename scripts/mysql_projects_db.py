@@ -1,5 +1,6 @@
 import mysql.connector as mysql
 
+# NOTE: You must have the "projects" database in mysql beforehand
 
 def connect(db_name):
     try:
