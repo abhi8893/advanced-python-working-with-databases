@@ -13,3 +13,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 9. Loading csv file (red30) into a database using `pyscopg2`
 10. Inserting data into red30 sales table using `psycopg2`
 11. CRUD operations on red30 sales table using `sqlalchemy-core` + `postgres`
+12. CRUD operations on red30 sales table using `sqlalchemy-orm` + `postgres`
