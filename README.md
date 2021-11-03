@@ -15,3 +15,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 11. CRUD operations on red30 sales table using `sqlalchemy-core` + `postgres`
 12. CRUD operations on red30 sales table using `sqlalchemy-orm` + `postgres`
 13. CRUD operations and stored procedures on red30 sales table using `psycopg2`
+14. CRUD operations and stored procedures on red30 sales table using `sqlalchemy`
