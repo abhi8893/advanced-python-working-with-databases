@@ -18,3 +18,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 14. CRUD operations and stored procedures on red30 sales table using `sqlalchemy`
 15. Challenge - creating a Books db with book, author, and author_books table using `psycopg2`
 16. Challenge - creating a Books db with book, author, and author_books table using `sqlalchemy-orm`
+16. Challenge - creating a Books db with book, author, and author_books table using `sqlalchemy-core`
