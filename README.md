@@ -19,3 +19,4 @@ This repository is created by following the LinkedinLearning course [Advanced Py
 15. Challenge - creating a Books db with book, author, and author_books table using `psycopg2`
 16. Challenge - creating a Books db with book, author, and author_books table using `sqlalchemy-orm`
 16. Challenge - creating a Books db with book, author, and author_books table using `sqlalchemy-core`
+17. Simple Project Tracker Web app using `flask` + `sqlalchemy` + `postgres`
