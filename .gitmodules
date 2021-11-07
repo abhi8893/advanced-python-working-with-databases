@@ -1,0 +1,3 @@
+[submodule "project-tracker-flask-app"]
+	path = project-tracker-flask-app
+	url = git@github.com:abhi8893/project-tracker-flask-app.git
